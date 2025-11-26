@@ -1,2 +1,4 @@
-# CLangHotReload
-minimam c lang hot reloading example
+# Usage
+build by ./build.bat
+
+then update lib/impl.c and ./update.bat
